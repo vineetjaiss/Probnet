@@ -1,0 +1,148 @@
+.input-id,
+.input-pass {
+  border: 0;
+  background-color: var(--color-gray-100);
+  position: absolute;
+  top: 426px;
+  left: 532px;
+  border-radius: var(--br-8xs);
+  width: 376px;
+  height: 49px;
+}
+.input-id {
+  top: 329px;
+}
+.email-id,
+.password {
+  position: absolute;
+  top: 387px;
+  left: 532px;
+}
+.email-id {
+  top: 290px;
+}
+.or-child,
+.or-item {
+  position: absolute;
+  top: 14.5px;
+  left: 220.5px;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 156px;
+  height: 1px;
+}
+.or-item {
+  top: 11.5px;
+  left: -0.5px;
+}
+.or,
+.or1 {
+  position: absolute;
+  top: 0;
+  left: 174px;
+}
+.or {
+  top: 512px;
+  left: 532px;
+  width: 376px;
+  height: 30px;
+}
+.google-acc-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 360px;
+  height: 44px;
+}
+.continue-with-google {
+  position: absolute;
+  top: 7px;
+  left: 44px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-poppins);
+  color: #000;
+  text-align: left;
+}
+.google-icon {
+  position: absolute;
+  height: 70.45%;
+  width: 8.61%;
+  top: 15.91%;
+  right: 89.44%;
+  bottom: 13.64%;
+  left: 1.94%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.google-acc {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 579px;
+  left: 540px;
+  width: 360px;
+  height: 44px;
+}
+.probnet-child,
+.probnet-item {
+  position: absolute;
+  top: 132.5px;
+  left: 233.5px;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 143px;
+  height: 1px;
+}
+.probnet-item {
+  left: -0.5px;
+}
+.name-item,
+.sign-in1 {
+  position: absolute;
+  top: 118px;
+  left: 155px;
+}
+.name-item {
+  top: 0;
+  left: 0;
+  width: 122px;
+  height: 124px;
+  object-fit: cover;
+}
+.probnet2 {
+  position: absolute;
+  top: 14px;
+  left: 122px;
+}
+.name1,
+.probnet1 {
+  position: absolute;
+  width: 376px;
+}
+.name1 {
+  top: 0;
+  left: 0;
+  height: 124px;
+  font-size: var(--font-size-45xl);
+}
+.probnet1 {
+  top: 112px;
+  left: 532px;
+  height: 148px;
+}
+.sign-in-page {
+  position: relative;
+  background-color: var(--color-darkslategray);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
